@@ -17,7 +17,7 @@ Margins, paddings, and borders.
 >[!NOTE]
 >  - Include at least:
 >  - Use of 3 selectors
->  - Style an image
+>  - ![alt text](image.png)e
 >  - Margin, Padding & Borders
 >  - Different font
 
